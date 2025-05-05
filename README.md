@@ -1,1 +1,1 @@
-# CodVeda Internship Projects
+# Codveda Internship Projects
